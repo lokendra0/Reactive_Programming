@@ -1,0 +1,7 @@
+2024-04-09T19:41:30.037+05:30  INFO 19044 --- [main] c.r.app.ReactiveProjectApplication       : Starting ReactiveProjectApplication using Java 17.0.10 with PID 19044 (C:\Users\l.singh.thakur\Downloads\Reactive-Programming-Spring-Boot-Flux-Yt-main\Reactive-Programming-Spring-Boot-Flux-Yt-main\ReactiveProject\ReactiveProject\target\classes started by l.singh.thakur in C:\Users\l.singh.thakur\Downloads\Reactive-Programming-Spring-Boot-Flux-Yt-main\Reactive-Programming-Spring-Boot-Flux-Yt-main\ReactiveProject\ReactiveProject)
+2024-04-09T19:41:30.044+05:30  INFO 19044 --- [main] c.r.app.ReactiveProjectApplication       : No active profile set, falling back to 1 default profile: "default"
+2024-04-09T19:41:30.753+05:30  INFO 19044 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+2024-04-09T19:41:30.756+05:30  INFO 19044 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data R2DBC repositories in DEFAULT mode.
+2024-04-09T19:41:30.920+05:30  INFO 19044 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 157 ms. Found 1 R2DBC repository interfaces.
+2024-04-09T19:41:32.562+05:30  INFO 19044 --- [main] o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 9091
+2024-04-09T19:41:32.587+05:30  INFO 19044 --- [main] c.r.app.ReactiveProjectApplication       : Started ReactiveProjectApplication in 3.06 seconds (process running for 3.641)
